@@ -13,6 +13,7 @@ Smack and XMPP allow you to easily exchange data in various ways e.g., fire-and-
 
 More information is provided by the [Overview](documentation/overview.md).
 
+
 Getting started
 ---------------
 
