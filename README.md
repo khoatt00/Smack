@@ -33,6 +33,7 @@ Professional Services
 ---------------------
 
 Smack is a collaborative effort of many people.
+
 Some are paid, e.g., by their employer or a third party, for their contributions.
 But many contribute in their spare time for free.
 While we try to provide the best possible XMPP library for Android and Java SE-compatible execution environments by following state-of-the-art software engineering practices, the API may not always perfectly fit your requirements.
